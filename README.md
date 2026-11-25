@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development, ERP Projects,Data Analysis, AI&LLM**
 
-- 📝 I regularly write articles on [LLM & RAG](LLM & RAG)
+- 📝 I regularly write articles on [LLM & RAG]
 
 - 💬 Ask me about **System Analysis& Design ,ERP & CRM,Database Design, Data Analysis, AI&RAGlysis**
 
