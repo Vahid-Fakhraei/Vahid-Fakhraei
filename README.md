@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [LLM & RAG]
 
-- 💬 Ask me about **System Analysis& Design ,ERP & CRM,Database Design, Data Analysis, AI&RAGlysis**
+- 💬 Ask me about **System Analysis& Design , Software Development, ERP & CRM, Database Design, Data Analysis, AI& RAG **
 
 - 📫 How to reach me **vahidfakhraei2014@gmail.com**
 
