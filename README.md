@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Seyed Vahid</h1>
 <h3 align="center">Systems Analyst | ERP & CRM Consultant | Software Developer | Data Analyst | AI, LLM & RAG Researcher</h3>
 
-- 🔭 I’m currently working on **Android Application and AI-Powered RAG**
+- 🔭 I’m currently working on **Android Application and AI-Powered RAG System**
 
 - 🌱 I’m currently learning **Multiplatform Application Develeopment**
 
